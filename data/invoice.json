@@ -1,0 +1,11 @@
+{
+  "customer": "Giovanny",
+  "orders": [
+    {
+      "amount": 50
+    },
+    {
+      "amount": 100
+    }
+  ]
+}
