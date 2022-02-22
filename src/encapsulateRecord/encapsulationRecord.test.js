@@ -1,5 +1,5 @@
 import { compareUsage } from './encapsulationRecord';
-  describe('check uage comparation', () => {
+  describe('check usage comparation', () => {
     let expected = {};
     let result = {};
     beforeAll(()=> {
